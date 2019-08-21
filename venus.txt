@@ -1,2 +1,6 @@
 
 Hi Mars
+
+Let's construct a conflict.
+This is what godmar says the file should look like.
+
